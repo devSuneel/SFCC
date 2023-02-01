@@ -1,0 +1,16 @@
+[2022-12-08 06:26:02.746 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : Starting to reencrypt encrypted objects in All reencryption mode ...
+[2022-12-08 06:26:02.805 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2022-12-08 06:26:02.821 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2022-12-08 06:26:02.821 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler] Closed pageable correctly
+[2022-12-08 06:26:02.840 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Running in 'batched' mode, batches to process: 0
+[2022-12-08 06:26:02.848 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2022-12-08 06:26:02.848 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl] Closed pageable correctly
+[2022-12-08 06:26:02.857 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2022-12-08 06:26:02.866 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2022-12-08 06:26:02.866 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler] Closed pageable correctly
+[2022-12-08 06:26:02.866 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : ...ending re-encryption.
+[2022-12-08 06:26:04.127 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Removed encryption keys: none
+[2022-12-08 06:26:04.128 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Kept encryption keys: 33812(aes-256-1960137147)
+[2022-12-08 06:26:04.266 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [ENCSTATUS] : encryption key statistics:
+	key nr. 33812,	created at Sat Oct 29 05:26:02 GMT 2022,	used by 0 objects
+

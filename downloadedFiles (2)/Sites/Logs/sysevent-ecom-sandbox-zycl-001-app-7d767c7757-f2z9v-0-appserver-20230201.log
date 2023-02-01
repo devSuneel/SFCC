@@ -1,0 +1,24 @@
+[2023-02-01 12:00:33.044 GMT] Custom cartridge directory set to /remote/zycl/zycl_001/sharedata/cartridges/danish_v1.
+[2023-02-01 12:05:10.515 GMT] Custom cartridge directory set to /remote/zycl/zycl_001/sharedata/cartridges/version5.
+[2023-02-01 12:05:10.517 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/app_product_cedmeta/cartridge' as main cartridge directory for 'app_product_cedmeta'.
+[2023-02-01 12:05:10.517 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/int_klevu_core/cartridge' as main cartridge directory for 'int_klevu_core'.
+[2023-02-01 12:05:10.517 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/plugin_ced/cartridge' as main cartridge directory for 'plugin_ced'.
+[2023-02-01 12:05:10.518 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/modules/release' as main cartridge directory for 'modules'.
+[2023-02-01 12:05:10.518 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/int_fenix_sfra/cartridge' as main cartridge directory for 'int_fenix_sfra'.
+[2023-02-01 12:05:10.518 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_minichamp/cartridge' as main cartridge directory for 'bm_minichamp'.
+[2023-02-01 12:05:10.531 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_klevu/cartridge' as main cartridge directory for 'bm_klevu'.
+[2023-02-01 12:05:10.533 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_mailchimp/cartridge' as main cartridge directory for 'bm_mailchimp'.
+[2023-02-01 12:05:10.533 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_app_storefront_base/cartridge' as main cartridge directory for 'bm_app_storefront_base'.
+[2023-02-01 12:05:10.533 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/int_klevu_sfra/cartridge' as main cartridge directory for 'int_klevu_sfra'.
+[2023-02-01 12:05:10.533 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_socialchannels/cartridge' as main cartridge directory for 'bm_socialchannels'.
+[2023-02-01 12:05:10.534 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/plugin_wishlists/cartridge' as main cartridge directory for 'plugin_wishlists'.
+[2023-02-01 12:05:10.534 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_tools/cartridge' as main cartridge directory for 'bm_tools'.
+[2023-02-01 12:05:10.534 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/int_fenix_controllers/cartridge' as main cartridge directory for 'int_fenix_controllers'.
+[2023-02-01 12:05:10.535 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/bm_fenix/cartridge' as main cartridge directory for 'bm_fenix'.
+[2023-02-01 12:05:10.535 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/app_storefront_base/cartridge' as main cartridge directory for 'app_storefront_base'.
+[2023-02-01 12:05:10.535 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/fenix_sg_changes/cartridge' as main cartridge directory for 'fenix_sg_changes'.
+[2023-02-01 12:05:10.535 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/plugin_hubspot/cartridge' as main cartridge directory for 'plugin_hubspot'.
+[2023-02-01 12:05:10.535 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/int_fenix_core/cartridge' as main cartridge directory for 'int_fenix_core'.
+[2023-02-01 12:05:10.536 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/int_tiktok/cartridge' as main cartridge directory for 'int_tiktok'.
+[2023-02-01 12:05:10.536 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/lib_productlist/cartridge' as main cartridge directory for 'lib_productlist'.
+[2023-02-01 12:05:10.536 GMT] Using '/remote/zycl/zycl_001/sharedata/cartridges/version5/fenix_sfra_changes/cartridge' as main cartridge directory for 'fenix_sfra_changes'.

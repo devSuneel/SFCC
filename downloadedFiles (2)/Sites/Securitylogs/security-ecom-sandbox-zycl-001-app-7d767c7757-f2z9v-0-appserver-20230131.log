@@ -1,0 +1,66 @@
+[2023-01-31 06:26:02.732 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : Starting to reencrypt encrypted objects in All reencryption mode ...
+[2023-01-31 06:26:02.757 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2023-01-31 06:26:02.764 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2023-01-31 06:26:02.764 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler] Closed pageable correctly
+[2023-01-31 06:26:02.779 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Running in 'batched' mode, batches to process: 0
+[2023-01-31 06:26:02.793 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2023-01-31 06:26:02.794 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl] Closed pageable correctly
+[2023-01-31 06:26:02.805 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2023-01-31 06:26:02.808 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2023-01-31 06:26:02.808 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler] Closed pageable correctly
+[2023-01-31 06:26:02.808 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : ...ending re-encryption.
+[2023-01-31 06:26:03.112 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Removed encryption keys: none
+[2023-01-31 06:26:03.112 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Kept encryption keys: 33812(aes-256-1960137147)
+[2023-01-31 06:26:03.178 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [ENCSTATUS] : encryption key statistics:
+	key nr. 33812,	created at Sat Oct 29 05:26:02 GMT 2022,	used by 0 objects
+
+[2023-01-31 12:40:44.313 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 12:49:00.585 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:02:34.048 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:06:04.680 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:26:06.412 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:27:17.170 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:29:16.782 GMT] Creating new local user for AM user with login [storeexpert@cedcommerce.com].
+[2023-01-31 13:29:16.799 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 13:29:16.812 GMT] [DW-SEC] : User: 'storeexpert@cedcommerce.com' (Sites), IP: 103.97.184.108 [LOGIN] : logged in with truncated dwsid=[G6igHpo3Fk]
+[2023-01-31 13:29:16.815 GMT] Login for user (login: 'storeexpert@cedcommerce.com') succeeded.
+[2023-01-31 13:29:17.227 GMT] Pipeline CSRF Token not valid[Origin validation]: ViewAccount-ShowRedirectAfterCreate, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://account.demandware.com/ :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:29:17.588 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-ShowRedirectAfterCreate :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:29:36.534 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-ShowRedirectAfterCreate :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:29:39.948 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:29:59.717 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:30:06.687 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:30:10.680 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:30:39.091 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:30:53.926 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:31:27.761 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:32:01.585 GMT] Pipeline CSRF Token not valid[no token]: ViewAccount-Show, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://zycl-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewAccount-Show :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 13:48:03.405 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:48:41.198 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 13:48:56.911 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'system'. (role 'Administrator' unassigned)
+[2023-01-31 13:48:56.913 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 13:48:56.914 GMT] [DW-SEC] : User: 'storeexpert@cedcommerce.com' (Sites), IP: 103.97.184.106 [LOGIN] : logged in with truncated dwsid=[odeE1ALc73]
+[2023-01-31 13:48:56.916 GMT] Login for user (login: 'storeexpert@cedcommerce.com') succeeded.
+[2023-01-31 13:49:59.195 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'system'. (role 'Administrator' unassigned)
+[2023-01-31 13:49:59.198 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 13:49:59.198 GMT] [DW-SEC] : User: 'storeexpert@cedcommerce.com' (Sites), IP: 122.163.230.207 [LOGIN] : logged in with truncated dwsid=[vDycjjG59H]
+[2023-01-31 13:49:59.200 GMT] Login for user (login: 'storeexpert@cedcommerce.com') succeeded.
+[2023-01-31 13:51:25.733 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' unassigned)
+[2023-01-31 13:51:25.736 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' assigned)
+[2023-01-31 13:51:25.760 GMT] [DW-SEC] : User: 'storeexpert@cedcommerce.com' (Sites), IP: 103.97.184.108 [RE-LOGIN] : logged in again (authenticated via account manager), old dwsid=[G6igHpo3FkIQ_4gaegpe5RDTVQVGDwS9p_whcTyBSisM-bajO7vDJ-fKX5jHz2ScPzZgC0P3YDMFO8-JcwpCqQ==], new dwsid=[5lcqPD_AukanuqUHr9uDc1APINv7m31KkJB-STkZkbQ08UR-e2e9iMRSrhrUmDgv10bkm3N6VZeGXGx3M9Y8Bg==].
+[2023-01-31 13:51:26.063 GMT] Pipeline CSRF Token not valid[Origin validation]: ViewScreensaver-ConfirmAMLogin, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://account.demandware.com/ :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 14:04:42.924 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' unassigned)
+[2023-01-31 14:04:42.927 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' assigned)
+[2023-01-31 14:04:42.949 GMT] [DW-SEC] : User: 'storeexpert@cedcommerce.com' (Sites), IP: 103.97.184.106 [RE-LOGIN] : logged in again (authenticated via account manager), old dwsid=[odeE1ALc73ITS30zqIlcmRuoH9qcfZDPmziMclYqfqk0Q5DKMMCCHOZXasDSd7wB4ya61horEBKo6dCoeHEDkg==], new dwsid=[1qu_CJmfV3jNUwLkr0Pprt5NwripzERgejNgmsGnHSEVTeH09SVczFPwY_9N9axxd7FtHufNBgUv3wBOvZTdQg==].
+[2023-01-31 14:04:43.223 GMT] Pipeline CSRF Token not valid[Origin validation]: ViewScreensaver-ConfirmAMLogin, token: CSRF Token doesn't exist :: Origin: Not Provided Referrer: https://account.demandware.com/ :: UserAgent: Mozilla/5.0 (X11; Linux x86_64) 
+[2023-01-31 14:05:45.014 GMT] Pipeline 'null-null' has been called without a logged in user.
+[2023-01-31 14:06:42.983 GMT] Pipeline 'ViewAccount-Show' has been called without a logged in user.
+[2023-01-31 14:06:49.219 GMT] Pipeline 'ViewApplication-Logout' has been called without a logged in user.
+[2023-01-31 14:06:51.962 GMT] Pipeline 'ViewApplication-Logout' has been called without a logged in user.
+[2023-01-31 14:12:51.440 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'system'. (role 'Administrator' unassigned)
+[2023-01-31 14:12:51.442 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 14:12:51.443 GMT] [DW-SEC] : User: 'storeexpert@cedcommerce.com' (Sites), IP: 103.97.184.106 [LOGIN] : logged in with truncated dwsid=[yHe_JZKj8s]
+[2023-01-31 14:12:51.444 GMT] Login for user (login: 'storeexpert@cedcommerce.com') succeeded.
+[2023-01-31 17:59:46.148 GMT] Pipeline 'ViewApplication-CompressMenuGroup' has been called without a logged in user.
+[2023-01-31 18:32:59.123 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2023-01-31 20:05:39.320 GMT] Pipeline 'ViewApplication-Logout' has been called without a logged in user.

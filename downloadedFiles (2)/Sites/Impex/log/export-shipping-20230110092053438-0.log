@@ -1,0 +1,4 @@
+[2023-01-10 09:20:53.517 GMT] INFO Writing to [TEMP]/order/454b30becbf3cc958734734c8d
+[2023-01-10 09:20:53.713 GMT] INFO Copy export file to release area ... 
+[2023-01-10 09:20:53.713 GMT] INFO Copied to [IMPEX]/src/order/ShipMethod.xml
+[2023-01-10 09:20:53.714 GMT] INFO OK  Details:  LogFileName=export-shipping-20230110092053438-0.log; error=OK

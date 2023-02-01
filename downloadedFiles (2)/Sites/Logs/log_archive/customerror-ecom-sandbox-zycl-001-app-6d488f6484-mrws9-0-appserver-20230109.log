@@ -1,0 +1,36 @@
+[2023-01-09 14:04:35.661 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-09 14:04:35.755 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-09 14:04:38.935 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-09 14:04:38.940 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-09 14:04:58.494 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-09 14:04:58.498 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-09 14:05:09.174 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-09 14:05:09.179 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-09 14:06:35.152 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-09 14:06:35.156 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-09 14:06:37.899 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-09 14:06:37.903 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Default-Start|PipelineCall|cyefJRmcOT custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+

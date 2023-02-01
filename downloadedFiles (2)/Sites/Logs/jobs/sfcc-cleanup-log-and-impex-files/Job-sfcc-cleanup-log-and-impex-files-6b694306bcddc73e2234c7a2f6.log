@@ -1,0 +1,130 @@
+[2023-01-28 05:52:01.163 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files Executing job [sfcc-cleanup-log-and-impex-files][2497604031]...
+[2023-01-28 05:52:01.204 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Executing step [CleanupOutdatedImpexFiles][2175638539] for [Organization]...
+[2023-01-28 05:52:01.212 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:01.212 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using Directory = '/Sites/Impex'
+[2023-01-28 05:52:01.212 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:01.213 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:01.213 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using ArchiveDirectory = '/Sites/Impex/_trash'
+[2023-01-28 05:52:01.213 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using TouchOnArchive = 'true'
+[2023-01-28 05:52:01.213 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:01.213 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:01.213 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles OperationMode=Delete: Clean up files in directory '/Sites/Impex' and subdirectories older than 30 days (last modified before 2022-12-29T05:52:01.213Z).
+[2023-01-28 05:52:01.215 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles OperationMode=Delete: Cleaned up 0 outdated files in directory '/Sites/Impex' and subdirectories, freeing up 0 bytes.
+[2023-01-28 05:52:01.235 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedImpexFiles Execution of step [CleanupOutdatedImpexFiles] finished with status [OK].
+[2023-01-28 05:52:01.279 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Executing step [CleanupExcessiveImpexFiles][2175638541] for [Organization]...
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using Directory = '/Sites/Impex'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using ArchiveDirectory = '/Sites/Impex/_trash'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using TouchOnArchive = 'true'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles OperationMode=Delete: Clean up files and subdirectories in directory '/Sites/Impex' to limit the number of direct children to 100000.
+[2023-01-28 05:52:01.285 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles OperationMode=Delete: Cleaned up 0 files in directory '/Sites/Impex' and subdirectories.
+[2023-01-28 05:52:01.306 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveImpexFiles Execution of step [CleanupExcessiveImpexFiles] finished with status [OK].
+[2023-01-28 05:52:01.347 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Executing step [DeleteImpexFilesFromTrash][2175638543] for [Organization]...
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using OperationMode = 'Delete'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using Directory = '/Sites/Impex/_trash'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using ArchiveDirectory = 'null'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using TouchOnArchive = 'false'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using CompressOnArchive = 'false'
+[2023-01-28 05:52:01.353 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:01.374 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteImpexFilesFromTrash Execution of step [DeleteImpexFilesFromTrash] finished with status [OK]: Directory Not Exists
+[2023-01-28 05:52:01.419 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Executing step [ArchiveOutdatedDirectLogFiles][2175638544] for [Organization]...
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using OperationMode = 'Archive'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using Directory = '/Sites/Logs'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using TravelMode = 'Direct Files Only'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using ArchiveDirectory = '/Sites/Logs/log_archive'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using TouchOnArchive = 'false'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using CompressOnArchive = 'true'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Using ExcludeFileNamePrefixesFromCompression = 'custom,service'
+[2023-01-28 05:52:01.426 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles OperationMode=Archive: Clean up files in directory '/Sites/Logs' and subdirectories older than 3 days (last modified before 2023-01-25T05:52:01.426Z).
+[2023-01-28 05:52:01.686 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles OperationMode=Archive: Cleaned up 4 outdated files in directory '/Sites/Logs' and subdirectories, freeing up 6872309 bytes.
+[2023-01-28 05:52:01.722 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|ArchiveOutdatedDirectLogFiles Execution of step [ArchiveOutdatedDirectLogFiles] finished with status [OK].
+[2023-01-28 05:52:01.816 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Executing step [DeleteOutdatedLogFiles][2175638545] for [Organization]...
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using Directory = '/Sites/Logs'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using ArchiveDirectory = 'null'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using TouchOnArchive = 'false'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:01.831 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:01.832 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles OperationMode=Delete: Clean up files in directory '/Sites/Logs' and subdirectories older than 30 days (last modified before 2022-12-29T05:52:01.832Z).
+[2023-01-28 05:52:02.006 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles OperationMode=Delete: Cleaned up 10 outdated files in directory '/Sites/Logs' and subdirectories, freeing up 9406598 bytes.
+[2023-01-28 05:52:02.087 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedLogFiles Execution of step [DeleteOutdatedLogFiles] finished with status [OK].
+[2023-01-28 05:52:02.150 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Executing step [DeleteExcessiveLogFiles][2175638546] for [Organization]...
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using Directory = '/Sites/Logs'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using ArchiveDirectory = 'null'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using TouchOnArchive = 'false'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:02.159 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:02.160 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles OperationMode=Delete: Clean up files and subdirectories in directory '/Sites/Logs' to limit the number of direct children to 100000.
+[2023-01-28 05:52:02.205 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles OperationMode=Delete: Cleaned up 0 files in directory '/Sites/Logs' and subdirectories.
+[2023-01-28 05:52:02.243 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveLogFiles Execution of step [DeleteExcessiveLogFiles] finished with status [OK].
+[2023-01-28 05:52:02.297 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Executing step [DeleteOutdatedSecurityLogFiles][2175638547] for [Organization]...
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using Directory = '/Sites/Securitylogs'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using ArchiveDirectory = 'null'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using TouchOnArchive = 'false'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:02.304 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles OperationMode=Delete: Clean up files in directory '/Sites/Securitylogs' and subdirectories older than 90 days (last modified before 2022-10-30T05:52:02.304Z).
+[2023-01-28 05:52:02.306 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles OperationMode=Delete: Cleaned up 2 outdated files in directory '/Sites/Securitylogs' and subdirectories, freeing up 2487 bytes.
+[2023-01-28 05:52:02.331 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteOutdatedSecurityLogFiles Execution of step [DeleteOutdatedSecurityLogFiles] finished with status [OK].
+[2023-01-28 05:52:02.379 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Executing step [DeleteExcessiveSecurityLogFiles][2175638548] for [Organization]...
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using Directory = '/Sites/Securitylogs'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using ArchiveDirectory = 'null'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using TouchOnArchive = 'false'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:02.386 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles OperationMode=Delete: Clean up files and subdirectories in directory '/Sites/Securitylogs' to limit the number of direct children to 100000.
+[2023-01-28 05:52:02.387 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles OperationMode=Delete: Cleaned up 0 files in directory '/Sites/Securitylogs' and subdirectories.
+[2023-01-28 05:52:02.411 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteExcessiveSecurityLogFiles Execution of step [DeleteExcessiveSecurityLogFiles] finished with status [OK].
+[2023-01-28 05:52:02.456 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Executing step [CleanupOutdatedTempFiles][2175638549] for [Organization]...
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using Directory = '/Sites/Temp'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using ArchiveDirectory = '/Sites/Temp/_trash'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using TouchOnArchive = 'true'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:02.462 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:02.463 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles OperationMode=Delete: Clean up files in directory '/Sites/Temp' and subdirectories older than 30 days (last modified before 2022-12-29T05:52:02.463Z).
+[2023-01-28 05:52:02.463 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles OperationMode=Delete: Cleaned up 0 outdated files in directory '/Sites/Temp' and subdirectories, freeing up 0 bytes.
+[2023-01-28 05:52:02.486 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupOutdatedTempFiles Execution of step [CleanupOutdatedTempFiles] finished with status [OK].
+[2023-01-28 05:52:02.548 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Executing step [CleanupExcessiveTempFiles][2175638550] for [Organization]...
+[2023-01-28 05:52:02.555 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using OperationMode = 'Delete'
+[2023-01-28 05:52:02.555 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using Directory = '/Sites/Temp'
+[2023-01-28 05:52:02.555 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:02.555 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:02.555 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using ArchiveDirectory = '/Sites/Temp/_trash'
+[2023-01-28 05:52:02.556 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using TouchOnArchive = 'true'
+[2023-01-28 05:52:02.556 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using CompressOnArchive = 'false'
+[2023-01-28 05:52:02.556 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:02.556 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles OperationMode=Delete: Clean up files and subdirectories in directory '/Sites/Temp' to limit the number of direct children to 100000.
+[2023-01-28 05:52:02.556 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles OperationMode=Delete: Cleaned up 0 files in directory '/Sites/Temp' and subdirectories.
+[2023-01-28 05:52:02.579 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|CleanupExcessiveTempFiles Execution of step [CleanupExcessiveTempFiles] finished with status [OK].
+[2023-01-28 05:52:02.621 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Executing step [DeleteTempFilesFromTrash][2175638551] for [Organization]...
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using OperationMode = 'Delete'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using Directory = '/Sites/Temp/_trash'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using TravelMode = 'Direct Files And Sub Directories'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using ExcludedSubDirectories = 'null'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using ArchiveDirectory = 'null'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using TouchOnArchive = 'false'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using CompressOnArchive = 'false'
+[2023-01-28 05:52:02.628 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Using ExcludeFileNamePrefixesFromCompression = 'null'
+[2023-01-28 05:52:02.654 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files|DeleteTempFilesFromTrash Execution of step [DeleteTempFilesFromTrash] finished with status [OK]: Directory Not Exists
+[2023-01-28 05:52:02.703 GMT] INFO SystemJobThread|990844086|sfcc-cleanup-log-and-impex-files Execution of job finished with status [OK].

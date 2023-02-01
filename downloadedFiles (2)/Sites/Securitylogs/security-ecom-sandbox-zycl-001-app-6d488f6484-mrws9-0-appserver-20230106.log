@@ -1,0 +1,18 @@
+[2023-01-06 06:26:03.106 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : Starting to reencrypt encrypted objects in All reencryption mode ...
+[2023-01-06 06:26:03.144 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Running in 'batched' mode, batches to process: 0
+[2023-01-06 06:26:03.152 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2023-01-06 06:26:03.152 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl] Closed pageable correctly
+[2023-01-06 06:26:03.163 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2023-01-06 06:26:03.170 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2023-01-06 06:26:03.170 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler] Closed pageable correctly
+[2023-01-06 06:26:03.179 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2023-01-06 06:26:03.186 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2023-01-06 06:26:03.187 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler] Closed pageable correctly
+[2023-01-06 06:26:03.187 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : ...ending re-encryption.
+[2023-01-06 06:26:03.635 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Removed encryption keys: none
+[2023-01-06 06:26:03.635 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Kept encryption keys: 33812(aes-256-1960137147)
+[2023-01-06 06:26:03.785 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [ENCSTATUS] : encryption key statistics:
+	key nr. 33812,	created at Sat Oct 29 05:26:02 GMT 2022,	used by 0 objects
+
+[2023-01-06 06:33:27.023 GMT] Pipeline 'ViewApplication-Logout' has been called without a logged in user.
+[2023-01-06 08:54:15.150 GMT] Pipeline 'Default-Start' has been called without a logged in user.

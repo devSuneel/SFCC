@@ -1,0 +1,12 @@
+<isdecorate template="application/MenuFrame">
+    <iscontent type="text/html" charset="UTF-8" />
+    <isinclude template="inc/Modules" />
+
+    <div class="slds-grid slds-m-top_medium">
+        <div class="slds-col slds-size_1-of-1">
+            <div class="slds-row">
+                <h2 style="color:red">${pdict.Message}</h2>
+            </div>
+        </div>
+    </div>
+</isdecorate>

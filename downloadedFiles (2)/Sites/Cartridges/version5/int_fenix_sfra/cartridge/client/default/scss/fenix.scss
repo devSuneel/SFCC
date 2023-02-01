@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@import "~base/variables";
+
+$breakpoint: 47.938em;
+
+// Fenix intelligent delivery estimate notification
+.delivery-estimate {
+    background-color: transparent;
+    border-color: $primary;
+    color: $primary;
+    font-size: 0.9em;
+    padding: 1.25em 0;
+    text-align: center;
+    width: 100%;
+
+    @media screen and (max-width: $breakpoint) {
+        font-size: 0.7em;
+    }
+}
+
+.delivery-noestimate {
+    background-color: transparent;
+    font-size: 0.9em;
+    padding: 0.625em 0;
+    text-align: center;
+
+    @media screen and (max-width: $breakpoint) {
+        font-size: 0.7em;
+    }
+}
+
+.form-caption.delivery-estimate,
+.form-caption.delivery-noestimate {
+    padding: 0 0 1.25em 1.563em;
+    width: 100%;
+    text-align: left;
+}

@@ -1,0 +1,9 @@
+[2023-01-11 14:01:52.340 GMT] INFO Import:  Start
+[2023-01-11 14:01:52.341 GMT] INFO ImportFile:  customization/customObjectTypes.xml
+[2023-01-11 14:01:52.341 GMT] INFO ImportMode:  MERGE
+[2023-01-11 14:01:52.341 GMT] INFO Starting Import of 'metadata' from: customization/customObjectTypes.xml
+[2023-01-11 14:01:54.164 GMT] WARN [DATAWARNING] Line: 3934/System Type: Profile: Default value tag only supported for attribute definitions of preference types. Skipping default value definition.
+[2023-01-11 14:01:54.626 GMT] INFO Processed 63 type-extension elements successfully
+[2023-01-11 14:01:54.626 GMT] INFO Processed 63 total elements
+[2023-01-11 14:01:54.635 GMT] INFO OK  Details:  DataErrorCount=0; DataWarningCount=1; LogFileName=import-metadata-20230111140152335-0.log; error=OK
+[2023-01-11 14:01:54.636 GMT] INFO Import:  End

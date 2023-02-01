@@ -1,0 +1,1631 @@
+[2023-01-10 05:52:51.835 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 05:52:51.853 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 06:01:28.079 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 06:01:28.084 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 06:35:15.797 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 06:35:15.804 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 06:43:57.403 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 06:43:57.409 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 06:44:49.281 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 06:44:49.285 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 06:44:57.117 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 06:44:57.128 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:22:07.569 GMT] ERROR PipelineCallServlet|2070926798|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:22:07.601 GMT] ERROR PipelineCallServlet|2070926798|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:22:15.147 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:22:15.153 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:22:39.679 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:22:39.685 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:23:01.172 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:23:01.189 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:23:19.116 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:23:19.120 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:23:34.520 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:23:34.524 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:23:48.507 GMT] ERROR PipelineCallServlet|538739595|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:23:48.511 GMT] ERROR PipelineCallServlet|538739595|Sites-RefArch-Site|Default-Start|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:28:08.206 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:28:08.211 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:48:50.932 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:48:50.939 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:48:53.490 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:48:53.494 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:49:37.687 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:49:37.690 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:49:49.483 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:49:49.486 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:49:56.332 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:49:56.336 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:52:22.047 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:52:22.052 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:53:26.185 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:53:26.190 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:53:52.494 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:53:52.499 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:54:40.116 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:54:40.119 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:54:52.552 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Default-Start|PipelineCall|_iQmh-VXZh custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:54:52.556 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Default-Start|PipelineCall|_iQmh-VXZh custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:55:21.262 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:55:21.266 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:56:31.631 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:56:31.634 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 07:59:57.980 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 07:59:57.986 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 08:00:40.856 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArchGlobal-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 08:00:40.867 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArchGlobal-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 08:01:45.252 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 08:01:45.256 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 08:03:17.194 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Default.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Default.js#7)
+	at app_storefront_base/cartridge/controllers/Default.js:7
+
+[2023-01-10 08:03:17.201 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|Default-Start|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Module "server" not found. (app_storefront_base/cartridge/controllers/Error.js#7)
+	at app_storefront_base/cartridge/controllers/Error.js:7
+
+[2023-01-10 08:08:01.255 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Page-IncludeHeaderMenu|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Page.js': TypeError: Cannot call method "getRoot" of null (app_storefront_base/cartridge/controllers/Page.js#72)
+	at app_storefront_base/cartridge/controllers/Page.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/cache.js:13 (applyDefaultCache)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:72 (include)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 08:08:01.371 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:06:07.992 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|Page-IncludeHeaderMenu|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Page.js': TypeError: Cannot call method "getRoot" of null (app_storefront_base/cartridge/controllers/Page.js#72)
+	at app_storefront_base/cartridge/controllers/Page.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/cache.js:13 (applyDefaultCache)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:72 (include)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:06:08.082 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:12:32.566 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:12:38.700 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:12:52.459 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:03.838 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:08.912 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:14.262 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:21.687 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:27.587 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:30.615 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:33.965 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:40.214 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:13:52.287 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:14:28.620 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:14:40.287 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:16:22.019 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:16:26.729 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:16:30.074 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:16:41.089 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:16:49.764 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:17:14.283 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:17:23.050 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:17:26.242 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:17:41.229 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:18:00.828 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|Ml7BXNCGNR custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:18:00.833 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|Ml7BXNCGNR custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:18:00.838 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|Ml7BXNCGNR custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:18:01.293 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:18:47.684 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:18:51.653 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|Ml7BXNCGNR custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:19:16.590 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:19:35.474 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:14.249 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:26.021 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:26.025 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:26.028 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:26.085 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:31.283 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:37.900 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:41.222 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:42.670 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:20:50.985 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:21:58.667 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:21:58.671 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:21:58.675 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:21:58.826 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:05.812 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:09.157 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:12.275 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:19.267 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:19.271 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:19.275 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:22:19.349 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:23:29.442 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:24:13.885 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:06.067 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:11.345 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:11.348 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:11.352 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:11.426 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:14.272 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:25:15.562 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:26:08.339 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:26:11.101 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:26:14.231 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:26:18.179 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:26:22.459 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:47.895 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:48.873 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:48.877 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:48.880 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:48.942 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:51.853 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:55.003 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:27:58.866 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:06.298 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:08.444 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:11.684 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:19.561 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:32.175 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:39.739 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:28:53.338 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:29:01.646 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:29:21.040 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:29:40.644 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:29:50.885 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:29:56.479 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:30:03.717 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:30:06.683 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:30:07.935 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:30:27.271 GMT] ERROR RepeatedMessageSuppressingFilter-Thread custom []  The following message was generated more than 10 times within the last 180 seconds. It will be suppressed for 180 seconds: Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:30:35.543 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:30:48.435 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:31:06.498 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:31:24.614 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:31:25.887 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:33:07.151 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:33:20.862 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:33:24.023 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:34:10.851 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:34:46.168 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:50:41.627 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:51:23.161 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:51:27.384 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:51:28.249 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:51:31.058 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 09:51:39.725 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:17:02.409 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:17:02.416 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:17:02.423 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:17:02.495 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:19:04.913 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:19:07.500 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom.isml []  TypeError: Cannot read property "displayName" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.displayName}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:19:07.505 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom.isml []  TypeError: Cannot read property "estimatedArrivalTime" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.estimatedArrivalTime}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:19:07.509 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom.isml []  TypeError: Cannot read property "shippingCost" from null ([Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]#1)
+	at [Template:checkout/shipping/shippingSummary:${shippingModel.selectedShippingMethod.shippingCost}]:1
+	at modules/server/render.js:22 (template)
+	at modules/server/render.js:107 (anonymous)
+	at modules/server/render.js:103 (applyRenderings)
+	at modules/server/server.js:96 (onRouteCompleteHandler)
+	at modules/server/EventEmitter.js:128 (emit)
+	at modules/server/route.js:115 (done)
+	at modules/server/route.js:87 (next)
+	at app_storefront_base/cartridge/controllers/Checkout.js:175 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:19:07.582 GMT] ERROR PipelineCallServlet|1555988766|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:19:10.777 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:20:09.299 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:20:27.840 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Cart-AddProduct|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:21:31.781 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:21:38.232 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:21:47.007 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:21:57.975 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:13.861 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:17.995 GMT] ERROR PipelineCallServlet|538739595|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:20.186 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:31.097 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:53.668 GMT] ERROR PipelineCallServlet|1555988766|Sites-RefArch-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:58.478 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:59.491 GMT] ERROR PipelineCallServlet|1555988766|Sites-RefArch-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:22:59.976 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|Cart-AddProduct|PipelineCall|AGFX_UkHkJ custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Cart.js': TypeError: Cannot read property "perpetual" from null (app_storefront_base/cartridge/scripts/cart/cartHelpers.js#356)
+	at app_storefront_base/cartridge/scripts/cart/cartHelpers.js:356 (addProductToCart)
+	at app_storefront_base/cartridge/controllers/Cart.js:75 (anonymous)
+	at app_storefront_base/cartridge/controllers/Cart.js:72 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:32:52.582 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:37:50.240 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:37:56.492 GMT] ERROR PipelineCallServlet|2070926798|Sites-RefArch-Site|Checkout-Begin|PipelineCall|8FrTmLbqXf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:45:37.379 GMT] ERROR PipelineCallServlet|538739595|Sites-RefArch-Site|Checkout-Begin|PipelineCall|jAGwrKI_Oo custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:48:30.501 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|Checkout-Begin|PipelineCall|jAGwrKI_Oo custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 10:48:38.196 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|Checkout-Begin|PipelineCall|jAGwrKI_Oo custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Checkout.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 12:38:16.802 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutServices-SubmitPayment|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitPayment' was not found in controller 'CheckoutServices'.
+[2023-01-10 12:38:32.131 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutServices-SubmitPayment|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitPayment' was not found in controller 'CheckoutServices'.
+[2023-01-10 12:38:43.437 GMT] ERROR PipelineCallServlet|1555988766|Sites-RefArch-Site|CheckoutServices-SubmitPayment|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitPayment' was not found in controller 'CheckoutServices'.
+[2023-01-10 12:43:43.456 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': ReferenceError: Unknown dynamic property 'isOptIn' for class 'class dw.object.ExtensibleObject$ExtensibleObjectAttributes'. (app_storefront_base/cartridge/controllers/CheckoutServices.js#625)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625 (anonymous)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:624 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 12:45:36.243 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': ReferenceError: Unknown dynamic property 'isOptIn' for class 'class dw.object.ExtensibleObject$ExtensibleObjectAttributes'. (app_storefront_base/cartridge/controllers/CheckoutServices.js#625)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625 (anonymous)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:624 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 12:46:46.303 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': ReferenceError: "Customer" is not defined. (app_storefront_base/cartridge/controllers/CheckoutServices.js#625)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625 (anonymous)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:624 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 12:49:06.561 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "profile" from undefined (app_storefront_base/cartridge/controllers/CheckoutServices.js#553)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:553
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 12:50:14.449 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "profile" from undefined (app_storefront_base/cartridge/controllers/CheckoutServices.js#625)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:624
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 12:52:50.072 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "profile" from undefined (app_storefront_base/cartridge/controllers/CheckoutServices.js#625)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:624
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 12:53:39.517 GMT] ERROR PipelineCallServlet|1016349854|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|oJwEPFIByS custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "profile" from undefined (app_storefront_base/cartridge/controllers/CheckoutServices.js#625)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:624
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 13:30:44.605 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "custom" from null (app_storefront_base/cartridge/controllers/CheckoutServices.js#554)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:554
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 13:38:49.435 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|CheckoutServices-SubmitCustomer|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.
+[2023-01-10 13:38:59.342 GMT] ERROR PipelineCallServlet|674227625|Sites-RefArch-Site|CheckoutServices-SubmitCustomer|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.
+[2023-01-10 13:40:43.170 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "custom" from null (app_storefront_base/cartridge/controllers/CheckoutServices.js#554)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:554
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 13:41:34.361 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': TypeError: Cannot read property "custom" from null (app_storefront_base/cartridge/controllers/CheckoutServices.js#554)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:554
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 13:42:57.725 GMT] ERROR PipelineCallServlet|2070926798|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': ReferenceError: "cutomerProfile" is not defined. (app_storefront_base/cartridge/controllers/CheckoutServices.js#637)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:637
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:636
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-10 13:46:16.449 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': ReferenceError: "cutomerProfile" is not defined. (app_storefront_base/cartridge/controllers/CheckoutServices.js#637)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:637 (anonymous)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:636 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-10 13:55:05.118 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|CheckoutServices-SubmitCustomer|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.
+[2023-01-10 13:55:12.055 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutServices-SubmitCustomer|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.
+[2023-01-10 13:55:19.899 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|CheckoutServices-SubmitCustomer|PipelineCall|8VZnYky40s custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.

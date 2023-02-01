@@ -1,0 +1,8 @@
+[2023-01-31 13:50:05.385 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|ViewSystemNotifications-GetHeaderSystemNotificationsJSON|OnRequest|kcPoXCYP8S custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-01-31 14:17:53.381 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|PSDzgoP2iH custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-01-31 14:19:41.846 GMT] ERROR PipelineCallServlet|757011003|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|PSDzgoP2iH custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-01-31 14:20:14.479 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|PSDzgoP2iH custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException

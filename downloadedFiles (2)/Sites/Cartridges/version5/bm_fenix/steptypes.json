@@ -1,0 +1,161 @@
+{
+    "step-types": {
+    	"script-module-step": [{
+		    "@type-id":"custom.Fenix-Upload",
+		    "@supports-parallel-execution":"false",
+		    "@supports-site-context":"true",
+		    "@supports-organization-context":"true",
+		    "description":"Uploads feeds to the Fenix SFTP server.  Used for both product feeds and purchase feeds.",
+		    "module":"bm_fenix/cartridge/scripts/jobs/fenixUploadFeeds.js",
+		    "function":"execute",
+		    "transactional":"false",
+		    "timeout-in-seconds":"10000",
+		    "parameters":
+		    {
+		    	"parameter": [{
+		          		"@name":"Enabled",
+		          		"@type":"boolean",
+		          		"@required":"false",
+		          		"@trim":"false",
+		          		"description":"Enable Upload of Catalog and Inventory Exports."
+			        },
+			        {
+              			"@name":"ProductDIR",
+              			"@type":"string",
+              			"@required":"true",
+              			"description":"String parameter, Remote path to which the Product CSV is Upload."
+            		},
+            		{
+              			"@name":"InventoryDIR",
+              			"@type":"string",
+              			"@required":"true",
+              			"description":"String parameter, Remote path to which the Product CSV is Upload."
+            		}
+            	]
+		    },
+		    "status-codes": {
+		    	"status":  [{
+		        	"@code":"ERROR", 
+		            "description":"Used when the step failed with an error."
+		        }, {
+					"@code":"OK",
+					"description":"Used when the step finished successfully."
+				}]
+			}
+		}],
+		"chunk-script-module-step": [
+            {
+                "@type-id":"custom.Fenix-Product-Feed-Export",
+                "@supports-parallel-execution":"false",
+                "@supports-site-context":"true",
+                "@supports-organization-context":"false",
+                "description":"Generates and uploads a Fenix Product Feed.",
+                "module":"bm_fenix/cartridge/scripts/jobs/fenixProductExport.js",
+                "before-step-function":"beforeStep",
+                "total-count-function":"getTotalCount",
+                "before-chunk-function":"",
+                "read-function":"read",
+                "process-function":"process",
+                "write-function":"write",
+                "after-chunk-function":"",
+                "after-step-function":"afterStep",
+                "chunk-size": 100,
+                "transactional":"false",
+                "parameters":
+		    	{
+		    		"parameter": [{
+		                "@name":"FileName",
+		                "@type":"string",
+		                "@required":"false",
+		          		"@trim":"true",
+		                "description":"A string parameter used as the base for export filename.",
+		                "max-length":"50"
+		          	},
+			        {
+		                "@name":"FieldSeparator",
+		                "@type":"string",
+		                "@required":"false",
+		          		"@trim":"true",
+		                "description":"A string parameter used as the base for export filenames.",
+		                "max-length":"50"
+		          	},
+			        {
+		          		"@name":"Enabled",
+		          		"@type":"boolean",
+		          		"@required":"false",
+		          		"@trim":"false",
+		          		"description":"Enable Product Exports."
+		          	}]		          	
+                },
+                "status-codes": {
+                    "status": [
+                        {
+                            "@code":"ERROR",
+                            "description":"Used when the step failed with an error."
+                        },
+                        {
+                            "@code":"OK",
+                            "description":"Used when the step finished successfully."
+                        }
+                    ]
+                }
+            },
+            {
+                "@type-id":"custom.Fenix-Inventory-Feed-Export",
+                "@supports-parallel-execution":"false",
+                "@supports-site-context":"true",
+                "@supports-organization-context":"false",
+                "description":"Generates and uploads a Fenix Inventory Feed.",
+                "module":"bm_fenix/cartridge/scripts/jobs/fenixInventoryExport.js",
+                "before-step-function":"beforeStep",
+                "total-count-function":"getTotalCount",
+                "before-chunk-function":"",
+                "read-function":"read",
+                "process-function":"process",
+                "write-function":"write",
+                "after-chunk-function":"",
+                "after-step-function":"afterStep",
+                "chunk-size": 100,
+                "transactional":"false",
+                "parameters":
+		    	{
+		    		"parameter": [{ 
+		                "@name":"FileName",
+		                "@type":"string",
+		                "@required":"false",
+		          		"@trim":"true",
+		                "description":"A string parameter used as the base for export filename.",
+		                "max-length":"50"
+		          	},
+                    {
+		                "@name":"FieldSeparator",
+		                "@type":"string",
+		                "@required":"false",
+		          		"@trim":"true",
+		                "description":"A string parameter used as the separation between fields.",
+		                "max-length":"50"
+		          	},
+		    	  	{
+		          		"@name":"Enabled",
+		          		"@type":"boolean",
+		          		"@required":"false",
+		          		"@trim":"false",
+		          		"description":"Enable Inventory Exports."
+		          	}]		          	
+                },
+                "status-codes": {
+                    "status": [
+                        {
+                            "@code":"ERROR",
+                            "description":"Used when the step failed with an error."
+                        },
+                        {
+                            "@code":"OK",
+                            "description":"Used when the step finished successfully."
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+} 

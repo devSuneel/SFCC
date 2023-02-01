@@ -1,0 +1,12 @@
+[2023-01-31 13:29:16.799 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 13:48:56.911 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'system'. (role 'Administrator' unassigned)
+[2023-01-31 13:48:56.913 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 13:49:59.195 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'system'. (role 'Administrator' unassigned)
+[2023-01-31 13:49:59.198 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 13:51:25.734 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' unassigned)
+[2023-01-31 13:51:25.736 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' assigned)
+[2023-01-31 14:04:42.924 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' unassigned)
+[2023-01-31 14:04:42.927 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'storeexpert@cedcommerce.com'. (role 'Administrator' assigned)
+[2023-01-31 14:12:51.440 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is unassigned role 'Administrator' by user 'system'. (role 'Administrator' unassigned)
+[2023-01-31 14:12:51.442 GMT] user 'storeexpert@cedcommerce.com' in org. 'Sites' is assigned role 'Administrator' by user 'system'. (role 'Administrator' assigned)
+[2023-01-31 14:33:32.098 GMT] Configuration property was changed.Property category [FEATURE_TOGGLES]. Property name [ShopperContextAwareEnabled]. Property UI label [Enable Shopper Context Awareness].  Action [changed]. Old value [true]. New value [false]. 

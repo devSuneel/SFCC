@@ -1,0 +1,8 @@
+<iscontent type="text/html" charset="UTF-8" compact="true" />
+
+<iscomment>
+    Fenix communications shipping estimate
+    p_alert_text : the alert text for this line item
+    p_discount_line_item : the line item
+</iscomment>
+<ismodule template="util/fenixIntelligentDelivery.isml" name="fenixintelligentdelivery" attribute="f_basket" attribute="f_sku" attribute="f_postal_code" attribute="f_page_type" attribute="f_class" />

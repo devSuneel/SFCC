@@ -1,0 +1,21 @@
+[2022-11-23 06:26:01.950 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : Starting to reencrypt encrypted objects in All reencryption mode ...
+[2022-11-23 06:26:02.008 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2022-11-23 06:26:02.023 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2022-11-23 06:26:02.023 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [ServiceCredentialEncryptionHandler] Closed pageable correctly
+[2022-11-23 06:26:02.039 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Running in 'batched' mode, batches to process: 0
+[2022-11-23 06:26:02.050 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2022-11-23 06:26:02.050 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [CustomerProfileEncryptionHandler] Closed pageable correctly
+[2022-11-23 06:26:02.069 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Running in 'batched' mode, batches to process: 0
+[2022-11-23 06:26:02.077 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl]  Object re-encryption run stats: total entities: 0, successful: 0, failed: 0
+[2022-11-23 06:26:02.077 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : [EncryptedPaymentInstrumentDAOImpl] Closed pageable correctly
+[2022-11-23 06:26:02.077 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [REENCRYPT] : ...ending re-encryption.
+[2022-11-23 06:26:02.822 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Removed encryption keys: none
+[2022-11-23 06:26:02.822 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [KEYSTATUS] : Kept encryption keys: 33812(aes-256-1960137147)
+[2022-11-23 06:26:02.984 GMT] [DW-SEC] : User: <system> (Sites-Site), IP: no-ip [ENCSTATUS] : encryption key statistics:
+	key nr. 33812,	created at Sat Oct 29 05:26:02 GMT 2022,	used by 0 objects
+
+[2022-11-23 09:25:45.058 GMT] Pipeline 'Default-Start' has been called without a logged in user.
+[2022-11-23 09:28:39.693 GMT] Pipeline 'Default-Start' has been called without a logged in user.
+[2022-11-23 09:31:40.216 GMT] Pipeline 'Default-Start' has been called without a logged in user.
+[2022-11-23 16:04:41.284 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.
+[2022-11-23 16:05:11.224 GMT] Pipeline 'ViewApplication-DisplayWelcomePage' has been called without a logged in user.

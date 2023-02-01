@@ -1,0 +1,43 @@
+        <isdecorate template="/application/MenuFrame">
+        <isinclude template="inc/Modules" />
+        <head>
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+        </head>
+        <input class="toggle" name="toggleURL" type="hidden"
+        value="${URLUtils.url('changeStatus-updateCustomer')}"/>
+        <table border="0" cellpadding="0" cellspacing="0" width="80%" id="methodTable"
+            class="table table-striped table-bordered table-sm center">
+            <thead>
+                <tr>
+                    <th class="table_header left paymentHeading">${Resource.msg('customer.no', 'customerInfo', null)}</th>
+                    <th class="table_header center"> ${Resource.msg('customer.email', 'customerInfo', null)} </th>
+                    <th class="table_header center"> ${Resource.msg('customer.optin', 'customerInfo', null)}</th>
+                </tr>
+                <tr class="emptyTR"></tr>
+            </thead>
+
+            <tbody>
+                <isloop items="${pdict.customerObj}" var="customer">
+                    <tr class="methodList ">
+                        <td class="bold left flexProp" nowrap="nowrap">
+                            <span class="inputTitle">${customer.customerNo}</span>
+                        </td>
+
+                        <td class="bold flexProp" nowrap="nowrap">
+                            <span class="inputTitle">${customer.email}</span>
+                        </td>
+
+                        <td class="center" align="center">
+                        <isif condition="${customer.custom.OptIn}">
+                            <span class="inputTitle">${customer.custom.OptIn}</span>
+                        <iselse/>
+                            <span class="inputTitle">false</span>
+                        </isif>
+                            <a class="changeOptinfo ${customer.customerNo} ${customer.custom.OptIn}" href="">${Resource.msg('customer.changelink', 'customerInfo', null)}</a>
+                        </td>
+                    </tr>
+                </isloop>
+            </tbody>
+        </table>
+    <script src="${URLUtils.staticURL('/js/customerClient.js')}"></script>
+</isdecorate>

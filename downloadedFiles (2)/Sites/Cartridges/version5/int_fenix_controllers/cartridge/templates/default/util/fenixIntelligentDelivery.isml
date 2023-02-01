@@ -1,0 +1,86 @@
+<iscontent type="text/html" charset="UTF-8" compact="true" />
+<iscomment>
+    Log event indicating checkout
+
+    Logs the step depending on the parameters.
+    step and name as parameter in page scope expected
+
+    Make sure, that step can be ordered alphabetically because the reporting
+    funnel display will use the step value to order the steps ascending.
+    The name improves the display.
+
+    DO NOT CHANGE THE LOCALE HERE. It just serves the purpose of logging the information
+    to the analytics log file. The customer will never see it and the analytics module expects en_US.
+
+    Parameters:
+
+    f_basket : the checkout step number
+    f_sku : the name of the checkout
+    f_postal_code : the checkout step number
+    f_page_type : the name of the checkout
+</iscomment>
+
+<isset name="f_enabled" value="${dw.system.Site.current.preferences.custom.fenixEnabled}" scope="page" />
+
+<isif condition="${f_enabled}">
+
+    <isset name="f_debug" value="${dw.system.Site.current.preferences.custom.fenixDebug}" scope="page" />
+    <isset name="f_basket" value="${pdict.f_basket}" scope="page" />
+    <isset name="f_sku" value="${pdict.f_sku}" scope="page" />
+    <isset name="f_postal_code" value="${pdict.f_postal_code}" scope="page" />
+    <isset name="f_page_type" value="${pdict.f_page_type}" scope="page" />
+    <isset name="f_class" value="${pdict.f_class?pdict.f_class:''}" scope="page" />
+
+    <isscript>
+        var fenixIntelligentDeliveryUtils = require('*/cartridge/scripts/util/fenixIntelligentDeliveryUtils');
+    </isscript>
+
+    <!-- Check for empty name of checkout step fenixIntelligentDeliveryUtils.isEmpty(pdict.f_enabled) -->
+
+    <isif condition="${fenixIntelligentDeliveryUtils.isEmpty(pdict.f_basket)}">
+        <isset name="f_basket" value=null scope="page" />
+    </isif>
+
+    <isif condition="${fenixIntelligentDeliveryUtils.isEmpty(pdict.f_sku)}">
+        <isset name="f_sku" value=null scope="page" />
+    </isif>
+
+    <isif condition="${fenixIntelligentDeliveryUtils.isEmpty(f_postal_code)}">
+        <isscript>
+            var postalCode = fenixIntelligentDeliveryUtils.getDeliveryPostalCode(session, pdict.CurrentCustomer, null);
+        </isscript>
+
+        <isset name="f_postal_code" value="${postalCode}" scope="session" />
+    </isif>
+
+    <isscript>
+        var fenixIntelligentDeliveryGetResponse = fenixIntelligentDeliveryUtils.getEstimates(f_basket, f_sku,
+        session.privacy.f_postal_code, f_page_type);
+    </isscript>
+
+    <isif condition="${fenixIntelligentDeliveryUtils.isEmpty(pdict.f_debug)}">
+        <isif condition="${f_debug}">
+            <isif condition="${!fenixIntelligentDeliveryUtils.isEmpty(fenixIntelligentDeliveryGetResponse.ErrorMsg)}"><span class="delivery-estimate">
+                    <isprint value="${fenixIntelligentDeliveryGetResponse.ErrorMsg}" /></span><br />
+            </isif>
+            <br />
+        </isif>
+
+        <isloop items="${fenixIntelligentDeliveryGetResponse.Response}" var="obj">
+            <span class="delivery-estimate ${f_page_type} ${f_class}">
+                <isif condition="${!fenixIntelligentDeliveryUtils.isEmpty(obj.errorMessage) && f_debug}">
+                    <isprint value="${obj.errorMessage.error_message + ' : ' + obj.errorMessage.description}" /><br />
+                    <br />
+                    </span>
+                <iselse>
+                    <isif condition="${!fenixIntelligentDeliveryUtils.isEmpty(obj)}">
+                        <isprint value="${obj.response + Resource.msg('FenixIntelligentDelivery.AtZip','fenixIntelligentDelivery',null) + postalCode}" />
+                        <br />
+                    </isif>
+                    </span>
+                    <isbreak>
+                </isif>
+        </isloop>
+    </isif>
+
+</isif>

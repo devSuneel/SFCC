@@ -1,0 +1,7 @@
+"Type";"Name";"Count";"TotalTime";"OwnTime";"TotalWaitTime";"OwnWaitTime"
+"SCRIPT_API";"dw.system.Request#getHttpHost()";"27";"296816";"296816";"255";"255"
+"SCRIPT_API";"dw.util.List#size()";"27";"468920";"468920";"48333";"48333"
+"SCRIPT_API";"dw.web.CSRFProtection#generateToken()";"27";"1429584";"1429584";"2269";"2269"
+"SCRIPT_API";"dw.web.CSRFProtection#getTokenName()";"27";"3455536";"3455536";"12509";"12509"
+"SCRIPT_API";"dw.web.URL#appendCSRFTokenBM()";"1";"190433";"190433";"0";"0"
+"SCRIPT_API";"dw.web.URLUtils#url(String,String[])";"1";"71171";"71171";"611";"611"

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<extensions xmlns="http://www.demandware.com/xml/bmmodules/2007-12-11"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.demandware.com/xml/bmmodules/2007-12-11 bmext.xsd">
+
+    <!-- =============================================================== -->
+    <!-- ==                                                           == -->
+    <!-- ==  MERCHANT TOOLS MENU EXTENSIONS                           == -->
+    <!-- ==                                                           == -->
+    <!-- =============================================================== -->
+    <!--
+    A custom menu action in the Merchant tools section under orderings
+-->
+
+    <menuaction id="minichampID" menupath="customers" position="100" site="true">
+        <name xml:lang="x-default">Mailchimp</name>
+        <short_description xml:lang="x-default">Mailchimp</short_description>
+        <description xml:lang="x-default"></description>
+        <!-- no icon specified -->
+        <exec pipeline="customerInfo" node="start"/>
+        <sub-pipelines>
+            <pipeline name="changeStatus-updateCustomer"/>
+        </sub-pipelines>
+        <icon></icon>
+    </menuaction>
+
+</extensions>

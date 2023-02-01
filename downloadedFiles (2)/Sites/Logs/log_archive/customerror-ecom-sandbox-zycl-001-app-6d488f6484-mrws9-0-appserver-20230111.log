@@ -1,0 +1,496 @@
+[2023-01-11 05:48:23.034 GMT] ERROR PipelineCallServlet|2070926798|Sites-RefArch-Site|CheckoutShippingServices-UpdateShippingMethodsList|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'UpdateShippingMethodsList' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 05:48:38.508 GMT] ERROR PipelineCallServlet|83063889|Sites-RefArch-Site|CheckoutShippingServices-SelectShippingMethod|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SelectShippingMethod' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 05:48:38.578 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutShippingServices-SelectShippingMethod|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SelectShippingMethod' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 05:48:38.796 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutShippingServices-SelectShippingMethod|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SelectShippingMethod' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 05:48:48.916 GMT] ERROR PipelineCallServlet|1927841104|Sites-RefArch-Site|CheckoutShippingServices-SubmitShipping|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitShipping' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 05:48:56.634 GMT] ERROR PipelineCallServlet|674227625|Sites-RefArch-Site|CheckoutShippingServices-SubmitShipping|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitShipping' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 05:53:51.231 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|CheckoutShippingServices-SubmitShipping|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js': Can't find method dw.customer.CustomerMgr.getSiteCustomerList(string). (app_storefront_base/cartridge/controllers/CheckoutShippingServices.js#378)
+	at app_storefront_base/cartridge/controllers/CheckoutShippingServices.js:378
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:36 (validateAjaxRequest)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93
+
+[2023-01-11 06:20:22.319 GMT] ERROR PipelineCallServlet|746910038|Sites-RefArch-Site|CheckoutShippingServices-SubmitShipping|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitShipping' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 06:20:30.838 GMT] ERROR PipelineCallServlet|383154887|Sites-RefArch-Site|CheckoutShippingServices-SubmitShipping|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitShipping' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 06:20:38.483 GMT] ERROR PipelineCallServlet|1117646354|Sites-RefArch-Site|CheckoutShippingServices-SubmitShipping|PipelineCall|2NcjVCn68D custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutShippingServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitShipping' was not found in controller 'CheckoutShippingServices'.
+[2023-01-11 07:10:06.778 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|WuYJKcnIZV custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 07:11:03.544 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|WuYJKcnIZV custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 07:11:18.182 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|WuYJKcnIZV custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 07:13:37.502 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|WuYJKcnIZV custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 07:58:29.564 GMT] ERROR PipelineCallServlet|657231921|Sites-Site|customerInfo-start|PipelineCall|WuYJKcnIZV custom.isml []  ReferenceError: Unknown property 'OptIn' for class 'class dw.customer.Profile'. ([Template:displayCustomers:${customer.OptIn}]#1)
+	at [Template:displayCustomers:${customer.OptIn}]:1
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:16 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+
+[2023-01-11 07:58:52.010 GMT] ERROR PipelineCallServlet|83063889|Sites-Site|customerInfo-start|PipelineCall|WuYJKcnIZV custom.isml []  ReferenceError: Unknown property 'OptIn' for class 'class dw.customer.Profile'. ([Template:displayCustomers:${customer.OptIn}]#1)
+	at [Template:displayCustomers:${customer.OptIn}]:1
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:16 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+
+[2023-01-11 07:58:55.668 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|customerInfo-start|PipelineCall|WuYJKcnIZV custom.isml []  ReferenceError: Unknown property 'OptIn' for class 'class dw.customer.Profile'. ([Template:displayCustomers:${customer.OptIn}]#1)
+	at [Template:displayCustomers:${customer.OptIn}]:1
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:16 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+
+[2023-01-11 07:59:54.743 GMT] ERROR PipelineCallServlet|1016349854|Sites-Site|customerInfo-start|PipelineCall|WuYJKcnIZV custom.isml []  ReferenceError: Unknown property 'OptIn' for class 'class dw.customer.Profile'. ([Template:displayCustomers:${customer.OptIn}]#1)
+	at [Template:displayCustomers:${customer.OptIn}]:1
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:16 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+
+[2023-01-11 08:05:21.958 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|WuYJKcnIZV custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:06:01.778 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|3ZpzMUUuuY custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:06:35.999 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|jArKlbOSxo custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:06:42.608 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|jArKlbOSxo custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:06:55.282 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|jArKlbOSxo custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:07:27.912 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|XqjPI86A4j custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:07:37.564 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|S7TEkZTk51 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:07:40.840 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|S7TEkZTk51 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 08:08:41.167 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|n_RfcsThCf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 11:10:26.758 GMT] ERROR PipelineCallServlet|83063889|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:11:30.803 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:12:07.787 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:12:22.133 GMT] ERROR PipelineCallServlet|538739595|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:12:30.659 GMT] ERROR PipelineCallServlet|1117646354|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:14:57.553 GMT] ERROR PipelineCallServlet|674227625|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:08.205 GMT] ERROR PipelineCallServlet|83063889|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:17.999 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:25.415 GMT] ERROR PipelineCallServlet|2070926798|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:30.162 GMT] ERROR PipelineCallServlet|746910038|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:34.042 GMT] ERROR PipelineCallServlet|674227625|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:38.598 GMT] ERROR PipelineCallServlet|2070926798|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:42.115 GMT] ERROR PipelineCallServlet|538739595|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:31:45.515 GMT] ERROR PipelineCallServlet|746910038|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:36:21.854 GMT] ERROR PipelineCallServlet|746910038|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:36:31.083 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:31.276 GMT] ERROR PipelineCallServlet|2070926798|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:35.480 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:39.194 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:42.423 GMT] ERROR PipelineCallServlet|1016349854|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:45.391 GMT] ERROR PipelineCallServlet|657231921|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:48.513 GMT] ERROR PipelineCallServlet|1016349854|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:39:52.043 GMT] ERROR PipelineCallServlet|657231921|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:40:25.819 GMT] ERROR PipelineCallServlet|674227625|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:40:37.488 GMT] ERROR PipelineCallServlet|746910038|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:48:05.976 GMT] ERROR PipelineCallServlet|674227625|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:48:14.337 GMT] ERROR PipelineCallServlet|657231921|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:48:20.186 GMT] ERROR PipelineCallServlet|1117646354|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:48:26.069 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:50:52.755 GMT] ERROR PipelineCallServlet|1016349854|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:50:58.998 GMT] ERROR PipelineCallServlet|538739595|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:05.059 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:09.128 GMT] ERROR PipelineCallServlet|674227625|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:13.304 GMT] ERROR PipelineCallServlet|538739595|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:17.441 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:36.843 GMT] ERROR PipelineCallServlet|2070926798|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:41.106 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:51:48.267 GMT] ERROR PipelineCallServlet|538739595|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:54:03.116 GMT] ERROR PipelineCallServlet|487711057|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:54:17.025 GMT] ERROR PipelineCallServlet|746910038|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:54:54.094 GMT] ERROR PipelineCallServlet|1927841104|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:55:11.072 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js': ReferenceError: "res" is not defined. (bm_mailchimp/cartridge/controllers/changeStatus.js#22)
+	at bm_mailchimp/cartridge/controllers/changeStatus.js:22 (updateCustomer)
+
+[2023-01-11 11:57:22.787 GMT] ERROR PipelineCallServlet|1016349854|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:57:27.513 GMT] ERROR PipelineCallServlet|487711057|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 11:57:35.862 GMT] ERROR PipelineCallServlet|83063889|Sites-Site|changeStatus-updateCustomer|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/changeStatus.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'updateCustomer' was not found in controller 'changeStatus'.
+[2023-01-11 12:38:03.792 GMT] ERROR PipelineCallServlet|487711057|Sites-RefArch-Site|CheckoutServices-PlaceOrder|PipelineCall|n_RfcsThCf custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js': Wrapped java.lang.RuntimeException: com.demandware.beehive.core.capi.user.PasswordFormatException: Password ***** is not a valid password. (app_storefront_base/cartridge/controllers/CheckoutServices.js#628)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:628 (anonymous)
+	at app_storefront_base/cartridge/controllers/CheckoutServices.js:625 (anonymous)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:42 (https)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:27 (post)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 12:58:57.458 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|customerInfo-start|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/customerInfo.js': ReferenceError: Unknown property 'length' for class 'class dw.util.SeekableIterator'. (bm_mailchimp/cartridge/controllers/customerInfo.js#11)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:11 (start)
+
+[2023-01-11 12:59:28.927 GMT] ERROR PipelineCallServlet|383154887|Sites-Site|customerInfo-start|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/customerInfo.js': ReferenceError: Unknown property 'length' for class 'class dw.util.SeekableIterator'. (bm_mailchimp/cartridge/controllers/customerInfo.js#11)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:11 (start)
+
+[2023-01-11 13:00:24.312 GMT] ERROR PipelineCallServlet|657231921|Sites-Site|customerInfo-start|PipelineCall|n_RfcsThCf custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/customerInfo.js': ReferenceError: Unknown property 'length' for class 'class dw.util.SeekableIterator'. (bm_mailchimp/cartridge/controllers/customerInfo.js#11)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:11 (start)
+
+[2023-01-11 13:01:22.388 GMT] ERROR PipelineCallServlet|1669775775|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:01:25.763 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:01:38.243 GMT] ERROR PipelineCallServlet|1117646354|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:01:44.316 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|CheckoutServices-SubmitCustomer|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.
+[2023-01-11 13:02:01.761 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|CheckoutServices-SubmitCustomer|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/CheckoutServices.js':
+com.demandware.beehive.core.capi.controller.ControllerException: The function 'SubmitCustomer' was not found in controller 'CheckoutServices'.
+[2023-01-11 13:06:57.066 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:16:27.923 GMT] ERROR PipelineCallServlet|2070926798|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:16:40.367 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:16:44.413 GMT] ERROR PipelineCallServlet|764169749|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:17:53.155 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:23:51.785 GMT] ERROR PipelineCallServlet|487711057|Sites-RefArch-Site|RedirectURL-Start|PipelineCall|_9augSqHAA custom []  Error while executing script 'app_storefront_base/cartridge/controllers/RedirectURL.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:23:51.800 GMT] ERROR PipelineCallServlet|487711057|Sites-RefArch-Site|RedirectURL-Start|PipelineCall|_9augSqHAA custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Route with this name already exists (modules/server/server.js#63)
+	at modules/server/server.js:63 (use)
+	at app_storefront_base/cartridge/controllers/Error.js:23
+
+[2023-01-11 13:48:34.245 GMT] ERROR PipelineCallServlet|1637278226|Sites-Site|customerInfo-start|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/customerInfo.js': Error: Failed processing template: TemplateLocation{cartridge=bm_mailchimp, path=default/displayCustomers.isml}
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:16 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+ (bm_mailchimp/cartridge/scripts/helpers/renderHelper.js#18)
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:18 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+
+[2023-01-11 13:50:48.747 GMT] ERROR PipelineCallServlet|657231921|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|YioO_1XCu8 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:51:15.943 GMT] ERROR PipelineCallServlet|764169749|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|MdTlot6QTL custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:51:24.653 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|MdTlot6QTL custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:52:01.059 GMT] ERROR PipelineCallServlet|83063889|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|MdTlot6QTL custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:52:19.447 GMT] ERROR PipelineCallServlet|674227625|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|MdTlot6QTL custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 13:52:39.837 GMT] ERROR PipelineCallServlet|1927841104|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|MdTlot6QTL custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 14:02:20.369 GMT] ERROR PipelineCallServlet|746910038|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|yNmD3YM2iE custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 14:03:45.085 GMT] ERROR PipelineCallServlet|383154887|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|yNmD3YM2iE custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 14:04:36.034 GMT] ERROR PipelineCallServlet|1016349854|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|ael2Q43jjW custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 14:07:25.692 GMT] ERROR PipelineCallServlet|1117646354|Sites-Site|customerInfo-start|PipelineCall|ael2Q43jjW custom []  Error while executing script 'bm_mailchimp/cartridge/controllers/customerInfo.js': Error: Failed processing template: TemplateLocation{cartridge=bm_mailchimp, path=default/displayCustomers.isml}
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:16 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+ (bm_mailchimp/cartridge/scripts/helpers/renderHelper.js#18)
+	at bm_mailchimp/cartridge/scripts/helpers/renderHelper.js:18 (render)
+	at bm_mailchimp/cartridge/controllers/customerInfo.js:12 (start)
+
+[2023-01-11 15:27:44.931 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|RedirectURL-Start|PipelineCall|_9augSqHAA custom []  Error while executing script 'app_storefront_base/cartridge/controllers/RedirectURL.js': Error: Params do not match route (modules/server/route.js#69)
+	at modules/server/route.js:69 (next)
+	at modules/server/middleware.js:14 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-01-11 15:27:44.946 GMT] ERROR PipelineCallServlet|657231921|Sites-RefArch-Site|RedirectURL-Start|PipelineCall|_9augSqHAA custom []  Error while executing script 'app_storefront_base/cartridge/controllers/Error.js': Error: Route with this name already exists (modules/server/server.js#63)
+	at modules/server/server.js:63 (use)
+	at app_storefront_base/cartridge/controllers/Error.js:23
+

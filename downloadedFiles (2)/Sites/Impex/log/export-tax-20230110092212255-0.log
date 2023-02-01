@@ -1,0 +1,4 @@
+[2023-01-10 09:22:12.278 GMT] INFO Writing to [TEMP]/order/df123fca08175efa77b694d678
+[2023-01-10 09:22:12.330 GMT] INFO Copy export file to release area ... 
+[2023-01-10 09:22:12.330 GMT] INFO Copied to [IMPEX]/src/order/taxTable.xml
+[2023-01-10 09:22:12.330 GMT] INFO OK  Details:  LogFileName=export-tax-20230110092212255-0.log; error=OK

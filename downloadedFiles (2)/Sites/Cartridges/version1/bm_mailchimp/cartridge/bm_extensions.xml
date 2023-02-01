@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<extensions xmlns="http://www.demandware.com/xml/bmmodules/2007-12-11"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.demandware.com/xml/bmmodules/2007-12-11 bmext.xsd">
+	<menuitem id="mailchimp_mail" position="99999" site="true">
+		<name xml:lang="x-default">Mailchimp Services</name>
+		<short_description xml:lang="x-default">Setup and Manage integrations with social channels</short_description>
+		<description xml:lang="x-default">Setup and Manage integrations with social channels</description>
+		<icon>icons/channels.svg</icon>
+	</menuitem>
+	<menuaction id="mailchimp_action" menupath="mailchimp_mail" position="500" site="true">
+		<name xml:lang="x-default">Mailchimp for Business</name>
+		<short_description xml:lang="x-default">Mailchimp integration setup</short_description>
+		<description xml:lang="x-default">Mailchimp integration setup</description>
+		<!-- no icon specified -->
+		<exec pipeline="Mailchimp" node="Start" />
+		<sub-pipelines>
+			<pipeline name="Mailchimp-Start" />
+		</sub-pipelines>
+	</menuaction>
+</extensions>

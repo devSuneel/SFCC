@@ -1,0 +1,413 @@
+[2023-02-01 05:29:15.069 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|UzmJA2OB7m custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:30:15.420 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|UzmJA2OB7m custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:34:43.494 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|DzE3qsm4c8 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:34:59.495 GMT] ERROR PipelineCallServlet|757011003|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:35:18.411 GMT] ERROR PipelineCallServlet|63037405|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:35:22.183 GMT] ERROR PipelineCallServlet|1761184927|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:44:12.749 GMT] ERROR PipelineCallServlet|76613725|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:48:14.871 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:48:25.198 GMT] ERROR PipelineCallServlet|2094677990|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:49:38.694 GMT] ERROR PipelineCallServlet|424365722|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:49:44.083 GMT] ERROR PipelineCallServlet|1328611545|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:49:49.808 GMT] ERROR PipelineCallServlet|1666252760|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:50:03.963 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:50:05.126 GMT] ERROR PipelineCallServlet|1320777945|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:50:37.127 GMT] ERROR PipelineCallServlet|76613725|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:50:56.989 GMT] ERROR PipelineCallServlet|1666252760|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:51:00.352 GMT] ERROR PipelineCallServlet|424365722|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:53:32.872 GMT] ERROR PipelineCallServlet|1320777945|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 05:54:18.728 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|UzmJA2OB7m custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:57:39.385 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:58:06.818 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:58:18.696 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:58:28.032 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:58:35.276 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 05:58:39.448 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 06:02:05.533 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 06:23:28.264 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|DzE3qsm4c8 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 06:24:20.169 GMT] ERROR PipelineCallServlet|564908635|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|SHqsVtpHJR custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 06:25:02.233 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|DzE3qsm4c8 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 06:27:17.554 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|DzE3qsm4c8 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 06:30:19.755 GMT] ERROR PipelineCallServlet|76613725|Sites-Site|ViewSystemNotifications-GetSystemNotificationTilesJSON|OnRequest|UzmJA2OB7m custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 07:04:46.129 GMT] ERROR PipelineCallServlet|1320777945|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|5A9koGXX_q custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 07:33:03.190 GMT] ERROR PipelineCallServlet|76613725|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|5A9koGXX_q custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:00:39.266 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:12:07.373 GMT] ERROR PipelineCallServlet|806501849|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|UzmJA2OB7m custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 09:14:30.732 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:14:39.890 GMT] ERROR PipelineCallServlet|2094677990|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:18:33.805 GMT] ERROR PipelineCallServlet|1320777945|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:23:19.760 GMT] ERROR PipelineCallServlet|424365722|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:23:33.990 GMT] ERROR PipelineCallServlet|2094677990|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:24:32.217 GMT] ERROR PipelineCallServlet|1328611545|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:25:05.202 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:25:07.655 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|ViewChannelCatalogList_52-StatisticsJSONProducts|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:25:08.061 GMT] ERROR PipelineCallServlet|1328611545|Sites-Site|ViewChannelCatalogList_52-StatisticsJSONAssignments|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:25:08.479 GMT] ERROR PipelineCallServlet|610866022|Sites-Site|ViewChannelCatalogList_52-StatisticsJSONAssignments|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:27:40.048 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|ViewSystemNotifications-GetSystemNotificationTilesJSON|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:36:02.557 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:38:16.723 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:38:36.364 GMT] ERROR PipelineCallServlet|424365722|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:40:40.819 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:41:06.491 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:41:36.211 GMT] ERROR PipelineCallServlet|1328611545|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:42:40.658 GMT] ERROR PipelineCallServlet|610866022|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:46:05.698 GMT] ERROR PipelineCallServlet|564908635|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:46:13.466 GMT] ERROR PipelineCallServlet|610866022|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:46:16.912 GMT] ERROR PipelineCallServlet|610866022|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:48:36.062 GMT] ERROR PipelineCallServlet|757011003|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 09:48:43.005 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:28:37.102 GMT] ERROR PipelineCallServlet|424365722|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|a8Ky1A1vXY custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:28:41.145 GMT] ERROR PipelineCallServlet|1666252760|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|a8Ky1A1vXY custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:28:48.556 GMT] ERROR PipelineCallServlet|1328611545|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|a8Ky1A1vXY custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:35:50.002 GMT] ERROR PipelineCallServlet|2094677990|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:36:25.027 GMT] ERROR PipelineCallServlet|564908635|Sites-Mailchimp-Site|ConsentTracking-Check|PipelineCall|a8Ky1A1vXY custom []  Error while executing script 'app_storefront_base/cartridge/controllers/ConsentTracking.js': TypeError: Cannot read property "online" from null (app_storefront_base/cartridge/controllers/ConsentTracking.js#92)
+	at app_storefront_base/cartridge/controllers/ConsentTracking.js:92 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/csrf.js:60 (generateToken)
+	at app_storefront_base/cartridge/scripts/middleware/consentTracking.js:33 (consent)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:52:57.775 GMT] ERROR PipelineCallServlet|63037405|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:54:37.777 GMT] ERROR PipelineCallServlet|763625332|Sites-Site|ViewSystemNotifications-GetHeaderSystemNotificationsJSON|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:55:16.320 GMT] ERROR PipelineCallServlet|424365722|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:55:42.621 GMT] ERROR PipelineCallServlet|763625332|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:56:16.643 GMT] ERROR PipelineCallServlet|1328611545|Sites-Site|ViewSystemNotifications-GetHeaderSystemNotificationsJSON|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:56:31.803 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:57:30.112 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:58:49.528 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 10:58:59.545 GMT] ERROR PipelineCallServlet|2094677990|Sites-RefArch-Site|PageDesigner-CommerceAssets_ShopTheLook|PipelineCall|Ojl1aMpXR2 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/PageDesigner.js': Wrapped java.util.NoSuchElementException (app_storefront_base/cartridge/scripts/helpers/productHelpers.js#477)
+	at app_storefront_base/cartridge/scripts/helpers/productHelpers.js:477 (getProductSearchHit)
+	at app_storefront_base/cartridge/models/product/productTile.js:17 (productTile)
+	at app_storefront_base/cartridge/scripts/factories/product.js:32 (anonymous)
+	at app_storefront_base/cartridge/controllers/PageDesigner.js:53 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/cache.js:27 (applyPromotionSensitiveCache)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:58:59.578 GMT] ERROR PipelineCallServlet|63037405|Sites-RefArch-Site|PageDesigner-CommerceAssets_ShopTheLook|PipelineCall|Ojl1aMpXR2 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/PageDesigner.js': Wrapped java.util.NoSuchElementException (app_storefront_base/cartridge/scripts/helpers/productHelpers.js#477)
+	at app_storefront_base/cartridge/scripts/helpers/productHelpers.js:477 (getProductSearchHit)
+	at app_storefront_base/cartridge/models/product/productTile.js:17 (productTile)
+	at app_storefront_base/cartridge/scripts/factories/product.js:32 (anonymous)
+	at app_storefront_base/cartridge/controllers/PageDesigner.js:53 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/cache.js:27 (applyPromotionSensitiveCache)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:58:59.602 GMT] ERROR PipelineCallServlet|1666252760|Sites-RefArch-Site|PageDesigner-CommerceAssets_ShopTheLook|PipelineCall|Ojl1aMpXR2 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/PageDesigner.js': Wrapped java.util.NoSuchElementException (app_storefront_base/cartridge/scripts/helpers/productHelpers.js#477)
+	at app_storefront_base/cartridge/scripts/helpers/productHelpers.js:477 (getProductSearchHit)
+	at app_storefront_base/cartridge/models/product/productTile.js:17 (productTile)
+	at app_storefront_base/cartridge/scripts/factories/product.js:32 (anonymous)
+	at app_storefront_base/cartridge/controllers/PageDesigner.js:53 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/cache.js:27 (applyPromotionSensitiveCache)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 10:58:59.879 GMT] ERROR PipelineCallServlet|610866022|Sites-RefArch-Site|PageDesigner-CommerceAssets_ShopTheLook|PipelineCall|Ojl1aMpXR2 custom []  Error while executing script 'app_storefront_base/cartridge/controllers/PageDesigner.js': Wrapped java.util.NoSuchElementException (app_storefront_base/cartridge/scripts/helpers/productHelpers.js#477)
+	at app_storefront_base/cartridge/scripts/helpers/productHelpers.js:477 (getProductSearchHit)
+	at app_storefront_base/cartridge/models/product/productTile.js:17 (productTile)
+	at app_storefront_base/cartridge/scripts/factories/product.js:32 (anonymous)
+	at app_storefront_base/cartridge/controllers/PageDesigner.js:53 (anonymous)
+	at modules/server/route.js:85 (next)
+	at app_storefront_base/cartridge/scripts/middleware/cache.js:27 (applyPromotionSensitiveCache)
+	at modules/server/route.js:85 (next)
+	at modules/server/middleware.js:12 (get)
+	at modules/server/route.js:93 (anonymous)
+
+[2023-02-01 11:04:26.905 GMT] ERROR PipelineCallServlet|593217061|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:04:43.059 GMT] ERROR PipelineCallServlet|1871681886|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:06:38.182 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:20:35.478 GMT] ERROR PipelineCallServlet|1320777945|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:27:25.924 GMT] ERROR PipelineCallServlet|1112235557|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:28:38.422 GMT] ERROR PipelineCallServlet|564908635|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:30:19.639 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:32:53.219 GMT] ERROR PipelineCallServlet|291033202|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:33:18.345 GMT] ERROR PipelineCallServlet|593217061|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:37:15.928 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:37:51.244 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:38:12.557 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:38:43.969 GMT] ERROR PipelineCallServlet|564908635|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:39:28.669 GMT] ERROR PipelineCallServlet|593217061|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:39:43.219 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|ViewSystemNotifications-GetSystemNotificationTilesJSON|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:42:14.897 GMT] ERROR PipelineCallServlet|1183880544|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:45:06.240 GMT] ERROR PipelineCallServlet|1739497429|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:45:35.825 GMT] ERROR PipelineCallServlet|291033202|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:46:37.084 GMT] ERROR PipelineCallServlet|1183880544|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:46:49.428 GMT] ERROR PipelineCallServlet|564908635|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:47:49.055 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:48:24.576 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:48:26.735 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:48:55.439 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:53:26.254 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:53:37.061 GMT] ERROR PipelineCallServlet|2094677990|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:58:22.935 GMT] ERROR PipelineCallServlet|1183880544|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:58:58.739 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:59:24.388 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 11:59:52.043 GMT] ERROR PipelineCallServlet|1871681886|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:00:35.578 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:01:34.555 GMT] ERROR PipelineCallServlet|1871681886|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:02:45.136 GMT] ERROR PipelineCallServlet|1666252760|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:03:22.312 GMT] ERROR PipelineCallServlet|63037405|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:03:47.760 GMT] ERROR PipelineCallServlet|76613725|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:04:20.892 GMT] ERROR PipelineCallServlet|763625332|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:05:16.531 GMT] ERROR PipelineCallServlet|1871681886|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:05:53.011 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:05:58.533 GMT] ERROR PipelineCallServlet|1761184927|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:06:07.092 GMT] ERROR PipelineCallServlet|1871681886|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:08:05.567 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:15:08.490 GMT] ERROR PipelineCallServlet|1871681886|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|a8Ky1A1vXY custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 12:19:42.673 GMT] ERROR PipelineCallServlet|1025910157|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 13:11:05.109 GMT] ERROR PipelineCallServlet|782405763|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 13:11:49.225 GMT] ERROR PipelineCallServlet|610866022|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 13:12:22.226 GMT] ERROR PipelineCallServlet|44125216|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 13:15:34.484 GMT] ERROR PipelineCallServlet|1320777945|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 13:25:33.845 GMT] ERROR PipelineCallServlet|1704124939|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 13:35:41.306 GMT] ERROR PipelineCallServlet|806501849|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 14:05:16.317 GMT] ERROR PipelineCallServlet|1704124939|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 14:05:23.404 GMT] ERROR PipelineCallServlet|1112235557|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 14:05:35.482 GMT] ERROR PipelineCallServlet|1704124939|Sites-Site|SiteNavigationBar-CreateAdminNavigationBarBM|OnRequest|Ojl1aMpXR2 custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 14:13:18.800 GMT] ERROR PipelineCallServlet|763625332|Sites-Site|ViewSystemNotifications-GetHeaderSystemNotificationsJSON|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException
+[2023-02-01 14:13:24.999 GMT] ERROR PipelineCallServlet|1112235557|Sites-Site|SiteNavigationBar-CreateSiteNavigationBarBM|OnRequest|4WfqOYtTGL custom.hooks []  Error while executing hook 'dw.system.request.onSession':
+java.lang.NullPointerException

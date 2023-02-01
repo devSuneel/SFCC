@@ -1,0 +1,10 @@
+[2023-01-10 09:25:19.562 GMT] INFO Import:  Start
+[2023-01-10 09:25:19.562 GMT] INFO ImportFile:  order/taxTable.xml
+[2023-01-10 09:25:19.563 GMT] INFO ImportMode:  MERGE
+[2023-01-10 09:25:19.564 GMT] INFO Starting Import of 'tax' from: order/taxTable.xml
+[2023-01-10 09:25:19.939 GMT] INFO Processed 18 tax-jurisdiction elements successfully
+[2023-01-10 09:25:19.939 GMT] INFO Processed 2 tax-class elements successfully
+[2023-01-10 09:25:19.939 GMT] INFO Processed 36 tax-rate elements successfully
+[2023-01-10 09:25:19.939 GMT] INFO Processed 56 total elements
+[2023-01-10 09:25:19.947 GMT] INFO OK  Details:  DataErrorCount=0; DataWarningCount=0; LogFileName=import-tax-20230110092519557-0.log; error=OK
+[2023-01-10 09:25:19.947 GMT] INFO Import:  End

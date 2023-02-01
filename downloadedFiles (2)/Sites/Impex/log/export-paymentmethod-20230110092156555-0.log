@@ -1,0 +1,8 @@
+[2023-01-10 09:21:56.560 GMT] INFO Export:  Start
+[2023-01-10 09:21:56.561 GMT] INFO ExportFile:  order/paymentMethod.xml
+[2023-01-10 09:21:56.561 GMT] INFO OverwriteExportFile:  true
+[2023-01-10 09:21:56.595 GMT] INFO Writing to [TEMP]/order/904a3afdd51ae5bfb49b5320a5
+[2023-01-10 09:21:56.674 GMT] INFO Copy export file to release area ... 
+[2023-01-10 09:21:56.674 GMT] INFO Copied to [IMPEX]/src/order/paymentMethod.xml
+[2023-01-10 09:21:56.675 GMT] INFO OK  Details:  LogFileName=export-paymentmethod-20230110092156555-0.log; error=OK
+[2023-01-10 09:21:56.675 GMT] INFO Export:  End

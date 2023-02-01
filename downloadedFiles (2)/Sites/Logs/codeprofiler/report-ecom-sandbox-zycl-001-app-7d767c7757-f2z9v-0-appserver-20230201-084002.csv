@@ -1,0 +1,7 @@
+"Type";"Name";"Count";"TotalTime";"OwnTime";"TotalWaitTime";"OwnWaitTime"
+"SCRIPT_API";"dw.system.Request#getHttpHost()";"5";"12751";"12751";"182";"182"
+"SCRIPT_API";"dw.system.Site#getCalendar()";"3";"155033";"155033";"0";"0"
+"SCRIPT_API";"dw.util.Calendar#getTime()";"3";"8022";"8022";"51";"51"
+"SCRIPT_API";"dw.util.List#size()";"5";"22911";"22911";"303";"303"
+"SCRIPT_API";"dw.web.CSRFProtection#generateToken()";"5";"174565";"174565";"0";"0"
+"SCRIPT_API";"dw.web.CSRFProtection#getTokenName()";"5";"22811";"22811";"2092";"2092"

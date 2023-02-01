@@ -1,0 +1,26 @@
+.delivery-estimate {
+  background-color: transparent;
+  border-color: #00a1e0;
+  color: #00a1e0;
+  font-size: 0.9em;
+  padding: 1.25em 0;
+  text-align: center;
+  width: 100%; }
+  @media screen and (max-width: 47.938em) {
+    .delivery-estimate {
+      font-size: 0.7em; } }
+
+.delivery-noestimate {
+  background-color: transparent;
+  font-size: 0.9em;
+  padding: 0.625em 0;
+  text-align: center; }
+  @media screen and (max-width: 47.938em) {
+    .delivery-noestimate {
+      font-size: 0.7em; } }
+
+.form-caption.delivery-estimate,
+.form-caption.delivery-noestimate {
+  padding: 0 0 1.25em 1.563em;
+  width: 100%;
+  text-align: left; }

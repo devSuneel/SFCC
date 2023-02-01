@@ -1,0 +1,9 @@
+[2023-01-10 09:27:19.992 GMT] INFO Import:  Start
+[2023-01-10 09:27:19.993 GMT] INFO ImportFile:  order/paymentMethod.xml
+[2023-01-10 09:27:19.993 GMT] INFO ImportMode:  MERGE
+[2023-01-10 09:27:19.995 GMT] INFO Starting Import of 'payment-settings' from: order/paymentMethod.xml
+[2023-01-10 09:27:20.172 GMT] INFO Processed 8 payment-method elements successfully
+[2023-01-10 09:27:20.172 GMT] INFO Processed 6 payment-card elements successfully
+[2023-01-10 09:27:20.172 GMT] INFO Processed 14 total elements
+[2023-01-10 09:27:20.180 GMT] INFO OK  Details:  DataErrorCount=0; DataWarningCount=0; LogFileName=import-paymentmethod-20230110092719988-0.log; error=OK
+[2023-01-10 09:27:20.180 GMT] INFO Import:  End

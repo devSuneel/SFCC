@@ -1,0 +1,14 @@
+[2023-01-10 09:26:19.354 GMT] INFO Import:  Start
+[2023-01-10 09:26:19.354 GMT] INFO ImportFile:  order/ShipMethod.xml
+[2023-01-10 09:26:19.354 GMT] INFO ImportMode:  MERGE
+[2023-01-10 09:26:19.366 GMT] INFO Starting Import of 'shipping' from: order/ShipMethod.xml
+[2023-01-10 09:26:19.573 GMT] WARN [DATAWARNING] [481/56] Shipping method: EUR001: Shipping method currency EUR is not among the Site's allowed currencies [USD]
+[2023-01-10 09:26:19.650 GMT] WARN [DATAWARNING] [571/57] Shipping method: EUR002: Shipping method currency EUR is not among the Site's allowed currencies [USD]
+[2023-01-10 09:26:19.671 GMT] WARN [DATAWARNING] [647/57] Shipping method: EUR003: Shipping method currency EUR is not among the Site's allowed currencies [USD]
+[2023-01-10 09:26:19.690 GMT] WARN [DATAWARNING] [707/57] Shipping method: EUR004: Shipping method currency EUR is not among the Site's allowed currencies [USD]
+[2023-01-10 09:26:19.705 GMT] WARN [DATAWARNING] [780/57] Shipping method: EUR005: Shipping method currency EUR is not among the Site's allowed currencies [USD]
+[2023-01-10 09:26:19.722 GMT] WARN [DATAWARNING] [803/61] Shipping method: SOCIAL_001: Customer group with id 'Social Channel' does not exist. Skipping.
+[2023-01-10 09:26:19.761 GMT] INFO Processed 13 shipping-method elements successfully
+[2023-01-10 09:26:19.761 GMT] INFO Processed 13 total elements
+[2023-01-10 09:26:19.769 GMT] INFO OK  Details:  DataErrorCount=0; DataWarningCount=6; LogFileName=import-shipping-20230110092619349-0.log; error=OK
+[2023-01-10 09:26:19.769 GMT] INFO Import:  End

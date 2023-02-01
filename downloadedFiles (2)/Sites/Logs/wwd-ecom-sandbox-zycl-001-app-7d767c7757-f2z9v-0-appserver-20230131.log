@@ -1,0 +1,200 @@
+[2023-01-31 04:18:01.844 GMT] DEBUG []Starting DR Backup
+[2023-01-31 04:18:01.850 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 04:18:01.873 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 04:18:01.885 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 04:18:01.886 GMT] DEBUG []Completed DR Backup
+[2023-01-31 04:48:01.828 GMT] DEBUG []Starting DR Backup
+[2023-01-31 04:48:01.830 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 04:48:01.851 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 04:48:01.871 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 04:48:01.872 GMT] DEBUG []Completed DR Backup
+[2023-01-31 05:18:01.817 GMT] DEBUG []Starting DR Backup
+[2023-01-31 05:18:01.820 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 05:18:01.832 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 05:18:01.844 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 05:18:01.845 GMT] DEBUG []Completed DR Backup
+[2023-01-31 05:48:01.860 GMT] DEBUG []Starting DR Backup
+[2023-01-31 05:48:01.862 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 05:48:01.901 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 05:48:01.913 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 05:48:01.913 GMT] DEBUG []Completed DR Backup
+[2023-01-31 06:18:01.993 GMT] DEBUG []Starting DR Backup
+[2023-01-31 06:18:01.995 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 06:18:02.013 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 06:18:02.026 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 06:18:02.026 GMT] DEBUG []Completed DR Backup
+[2023-01-31 06:48:01.835 GMT] DEBUG []Starting DR Backup
+[2023-01-31 06:48:01.838 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 06:48:01.895 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 06:48:01.902 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 06:48:01.902 GMT] DEBUG []Completed DR Backup
+[2023-01-31 07:18:01.786 GMT] DEBUG []Starting DR Backup
+[2023-01-31 07:18:01.788 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 07:18:01.819 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 07:18:01.828 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 07:18:01.828 GMT] DEBUG []Completed DR Backup
+[2023-01-31 07:48:01.761 GMT] DEBUG []Starting DR Backup
+[2023-01-31 07:48:01.763 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 07:48:01.782 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 07:48:01.790 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 07:48:01.790 GMT] DEBUG []Completed DR Backup
+[2023-01-31 08:18:01.803 GMT] DEBUG []Starting DR Backup
+[2023-01-31 08:18:01.805 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 08:18:01.830 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 08:18:01.847 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 08:18:01.848 GMT] DEBUG []Completed DR Backup
+[2023-01-31 08:48:01.844 GMT] DEBUG []Starting DR Backup
+[2023-01-31 08:48:01.847 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 08:48:01.875 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 08:48:01.893 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 08:48:01.893 GMT] DEBUG []Completed DR Backup
+[2023-01-31 09:18:01.966 GMT] DEBUG []Starting DR Backup
+[2023-01-31 09:18:01.968 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 09:18:01.999 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 09:18:02.061 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 09:18:02.062 GMT] DEBUG []Completed DR Backup
+[2023-01-31 09:48:01.911 GMT] DEBUG []Starting DR Backup
+[2023-01-31 09:48:01.913 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 09:48:02.003 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 09:48:02.021 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 09:48:02.021 GMT] DEBUG []Completed DR Backup
+[2023-01-31 10:18:03.404 GMT] DEBUG []Starting DR Backup
+[2023-01-31 10:18:03.406 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 10:18:03.422 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 10:18:03.428 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 10:18:03.428 GMT] DEBUG []Completed DR Backup
+[2023-01-31 10:48:01.845 GMT] DEBUG []Starting DR Backup
+[2023-01-31 10:48:01.848 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 10:48:01.861 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 10:48:01.873 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 10:48:01.874 GMT] DEBUG []Completed DR Backup
+[2023-01-31 11:18:01.974 GMT] DEBUG []Starting DR Backup
+[2023-01-31 11:18:01.976 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 11:18:02.012 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 11:18:02.017 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 11:18:02.017 GMT] DEBUG []Completed DR Backup
+[2023-01-31 11:48:01.715 GMT] DEBUG []Starting DR Backup
+[2023-01-31 11:48:01.717 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 11:48:01.744 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 11:48:01.754 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 11:48:01.754 GMT] DEBUG []Completed DR Backup
+[2023-01-31 12:18:02.028 GMT] DEBUG []Starting DR Backup
+[2023-01-31 12:18:02.029 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 12:18:02.060 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 12:18:02.079 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 12:18:02.080 GMT] DEBUG []Completed DR Backup
+[2023-01-31 12:48:01.988 GMT] DEBUG []Starting DR Backup
+[2023-01-31 12:48:01.990 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 12:48:02.029 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 12:48:02.040 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 12:48:02.040 GMT] DEBUG []Completed DR Backup
+[2023-01-31 13:18:01.798 GMT] DEBUG []Starting DR Backup
+[2023-01-31 13:18:01.800 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 13:18:01.824 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 13:18:01.831 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 13:18:01.831 GMT] DEBUG []Completed DR Backup
+[2023-01-31 13:48:01.769 GMT] DEBUG []Starting DR Backup
+[2023-01-31 13:48:01.771 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 13:48:01.778 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 13:48:01.822 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 13:48:01.822 GMT] DEBUG []Completed DR Backup
+[2023-01-31 14:18:01.836 GMT] DEBUG []Starting DR Backup
+[2023-01-31 14:18:01.839 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 14:18:01.854 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 14:18:01.862 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 14:18:01.862 GMT] DEBUG []Completed DR Backup
+[2023-01-31 14:48:01.877 GMT] DEBUG []Starting DR Backup
+[2023-01-31 14:48:01.880 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 14:48:01.891 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 14:48:01.901 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 14:48:01.902 GMT] DEBUG []Completed DR Backup
+[2023-01-31 15:18:01.765 GMT] DEBUG []Starting DR Backup
+[2023-01-31 15:18:01.767 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 15:18:01.792 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 15:18:01.802 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 15:18:01.802 GMT] DEBUG []Completed DR Backup
+[2023-01-31 15:48:01.771 GMT] DEBUG []Starting DR Backup
+[2023-01-31 15:48:01.773 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 15:48:01.795 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 15:48:01.817 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 15:48:01.817 GMT] DEBUG []Completed DR Backup
+[2023-01-31 16:18:01.741 GMT] DEBUG []Starting DR Backup
+[2023-01-31 16:18:01.909 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 16:18:01.940 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 16:18:01.977 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 16:18:01.977 GMT] DEBUG []Completed DR Backup
+[2023-01-31 16:48:01.850 GMT] DEBUG []Starting DR Backup
+[2023-01-31 16:48:01.852 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 16:48:01.879 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 16:48:01.888 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 16:48:01.888 GMT] DEBUG []Completed DR Backup
+[2023-01-31 17:18:01.741 GMT] DEBUG []Starting DR Backup
+[2023-01-31 17:18:01.743 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 17:18:01.772 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 17:18:01.781 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 17:18:01.781 GMT] DEBUG []Completed DR Backup
+[2023-01-31 17:48:01.917 GMT] DEBUG []Starting DR Backup
+[2023-01-31 17:48:01.920 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 17:48:01.952 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 17:48:01.957 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 17:48:01.958 GMT] DEBUG []Completed DR Backup
+[2023-01-31 18:18:01.716 GMT] DEBUG []Starting DR Backup
+[2023-01-31 18:18:01.718 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 18:18:01.737 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 18:18:01.743 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 18:18:01.743 GMT] DEBUG []Completed DR Backup
+[2023-01-31 18:48:01.742 GMT] DEBUG []Starting DR Backup
+[2023-01-31 18:48:01.744 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 18:48:01.762 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 18:48:01.811 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 18:48:01.811 GMT] DEBUG []Completed DR Backup
+[2023-01-31 19:18:01.745 GMT] DEBUG []Starting DR Backup
+[2023-01-31 19:18:01.747 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 19:18:01.758 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 19:18:01.796 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 19:18:01.796 GMT] DEBUG []Completed DR Backup
+[2023-01-31 19:48:01.809 GMT] DEBUG []Starting DR Backup
+[2023-01-31 19:48:01.811 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 19:48:01.829 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 19:48:01.840 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 19:48:01.840 GMT] DEBUG []Completed DR Backup
+[2023-01-31 20:18:01.892 GMT] DEBUG []Starting DR Backup
+[2023-01-31 20:18:01.894 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 20:18:01.931 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 20:18:01.938 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 20:18:01.938 GMT] DEBUG []Completed DR Backup
+[2023-01-31 20:48:01.807 GMT] DEBUG []Starting DR Backup
+[2023-01-31 20:48:01.810 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 20:48:01.853 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 20:48:01.866 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 20:48:01.866 GMT] DEBUG []Completed DR Backup
+[2023-01-31 21:18:01.744 GMT] DEBUG []Starting DR Backup
+[2023-01-31 21:18:01.746 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 21:18:01.767 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 21:18:01.779 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 21:18:01.779 GMT] DEBUG []Completed DR Backup
+[2023-01-31 21:48:01.764 GMT] DEBUG []Starting DR Backup
+[2023-01-31 21:48:01.767 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 21:48:01.778 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 21:48:01.790 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 21:48:01.790 GMT] DEBUG []Completed DR Backup
+[2023-01-31 22:18:01.719 GMT] DEBUG []Starting DR Backup
+[2023-01-31 22:18:01.721 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 22:18:01.743 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 22:18:01.756 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 22:18:01.756 GMT] DEBUG []Completed DR Backup
+[2023-01-31 22:48:01.743 GMT] DEBUG []Starting DR Backup
+[2023-01-31 22:48:01.746 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 22:48:01.752 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 22:48:01.767 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 22:48:01.768 GMT] DEBUG []Completed DR Backup
+[2023-01-31 23:18:01.853 GMT] DEBUG []Starting DR Backup
+[2023-01-31 23:18:01.854 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 23:18:01.875 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 23:18:01.880 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 23:18:01.880 GMT] DEBUG []Completed DR Backup
+[2023-01-31 23:48:01.957 GMT] DEBUG []Starting DR Backup
+[2023-01-31 23:48:01.959 GMT] INFO []Skipping export and upload in legacy DR backup as FT LegacyDRBackupEnabled is disabled.
+[2023-01-31 23:48:01.998 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 23:48:02.004 GMT] WARN []Backup location is not configured: do nothing.
+[2023-01-31 23:48:02.004 GMT] DEBUG []Completed DR Backup

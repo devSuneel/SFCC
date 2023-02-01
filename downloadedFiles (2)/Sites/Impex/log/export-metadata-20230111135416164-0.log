@@ -1,0 +1,8 @@
+[2023-01-11 13:54:16.170 GMT] INFO Export:  Start
+[2023-01-11 13:54:16.174 GMT] INFO ExportFile:  customization/customObjectTypes.xml
+[2023-01-11 13:54:16.174 GMT] INFO OverwriteExportFile:  true
+[2023-01-11 13:54:16.201 GMT] INFO Writing to [TEMP]//customization/2790a6b14ceadf2ecada219c82
+[2023-01-11 13:54:19.971 GMT] INFO Copy export file to release area ... 
+[2023-01-11 13:54:19.972 GMT] INFO Copied to [IMPEX]/src/customization/customObjectTypes.xml
+[2023-01-11 13:54:19.972 GMT] INFO OK  Details:  LogFileName=export-metadata-20230111135416164-0.log; error=OK
+[2023-01-11 13:54:19.972 GMT] INFO Export:  End
